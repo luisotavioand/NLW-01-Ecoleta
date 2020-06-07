@@ -3,6 +3,9 @@ Projeto desenvolvido durante a Next Level Week 01, ministrada pela Rocketseat.
 
 ## :computer: O Projeto
 O Ecoleta é um projeto multiplataforma que tem como objetivo conectar pessoas à companhias de coleta de resíduos.
+<p align="center">
+  <img src="Capturar.JPG" />
+</p>
 
 ## :rocket: Ferramentas
 As tecnologias listadas abaixo foram utilizadas no projeto.
