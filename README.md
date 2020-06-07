@@ -6,3 +6,6 @@ O Ecoleta Ã© um projeto multiplataforma que tem como objetivo conectar pessoas Ã
 
 ## Ferramentas
 [Node.js](https://nodejs.org/en/)
+[React](https://pt-br.reactjs.org)
+[React Native](https://reactnative.dev)
+[Typescript](https://www.typescriptlang.org)
