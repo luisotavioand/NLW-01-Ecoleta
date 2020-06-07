@@ -15,7 +15,7 @@ As tecnologias listadas abaixo foram utilizadas no projeto.
 - [Typescript](https://www.typescriptlang.org)
 - [Expo](https://expo.io)
 
-## :information_source: Instruções para clone]
+## :information_source: Instruções para clone
 ### Configuração da API
 ```git
 $ git clone https://github.com/DanielObara/NLW-1.0
