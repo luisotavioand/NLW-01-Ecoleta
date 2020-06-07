@@ -18,7 +18,7 @@ As tecnologias listadas abaixo foram utilizadas no projeto.
 ## :information_source: Instruções para clone
 ### Configuração da API
 ```git
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/luis291099/NLW-01-Ecoleta.git
 
 $ cd NLW/server
 
@@ -33,7 +33,7 @@ $ npm dev
 
 ### Configuração do Front-end
 ```
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/luis291099/NLW-01-Ecoleta.git
 
 $ cd NLW/web
 
@@ -45,7 +45,7 @@ $ npm start
 
 ### Configuração Mobile
 ```
-$ git clone https://github.com/DanielObara/NLW-1.0
+$ git clone https://github.com/luis291099/NLW-01-Ecoleta.git
 
 $ cd NLW/mobile
 
