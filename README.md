@@ -14,6 +14,7 @@ As tecnologias listadas abaixo foram utilizadas no projeto.
 - [React Native](https://reactnative.dev)
 - [Typescript](https://www.typescriptlang.org)
 - [Expo](https://expo.io)
+- [Express](https://expressjs.com/pt-br/)
 
 ## :information_source: Instruções para clone
 ### Configuração da API
